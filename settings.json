@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "AFKhot",
   "bot-account": {
     "username": "jessop",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Farmessmp.aternos.me",
+    "ip": "farmessmp.aternos.me",
     "port": 38309,
     "version": "",
     "try-creative": false
